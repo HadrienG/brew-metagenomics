@@ -32,12 +32,12 @@ brew install $formula
 * kraken *TODO*
 * megahit *TODO*
 * metaphlan *TODO*
-* mothur
+* [mothur](https://www.mothur.org) 1.39.5
 * nonpareil *TODO*
 * rapsearch *TODO*
 * salmon *TODO*
 * sortmerna *TODO*
-* vsearch *TODO*
+* [vsearch](https://github.com/torognes/vsearch) 2.4.4
 
 - [ ] to add
 
